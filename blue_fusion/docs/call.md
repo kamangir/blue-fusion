@@ -1,4 +1,4 @@
-# 2025 IEEE GRSS Data Fusion Contest
+# 2025 IEEE GRSS Data Fusion Contest 🔥
 
 url: https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest - ℹ️ details of dates and data.
 

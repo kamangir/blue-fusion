@@ -1,4 +1,4 @@
-# Track 2
+# Track 2 🔥
 
 code: [github](https://github.com/ChenHongruixuan/BRIGHT?tab=readme-ov-file)
 
@@ -12,10 +12,14 @@ data:
 
 🔥
 
-dev,
+digest https://github.com/ChenHongruixuan/BRIGHT 🔥
+
+dev,  🔥
 
 ```bash
 @fusion bright ingest \
   dryrun,train=<count>,upload,val=<count> \
   <object-name>
 ```
+
+digest https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest  🔥
