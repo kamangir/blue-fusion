@@ -4,7 +4,7 @@ ICON = "🔮"
 
 DESCRIPTION = f"{ICON} 2025 IEEE GRSS Data Fusion Contest"
 
-VERSION = "4.8.1"
+VERSION = "4.9.1"
 
 REPO_NAME = "blue-fusion"
 
