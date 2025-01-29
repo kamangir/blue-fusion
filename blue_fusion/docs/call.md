@@ -26,8 +26,7 @@ url: https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusi
 
 2️⃣ ... receive the test data set ... and submit their results within five days ...
 
-
-
+🔥
 
 # ToDo
 - [ ] digest the dates from https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest
