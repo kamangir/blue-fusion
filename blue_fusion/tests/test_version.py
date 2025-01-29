@@ -1,0 +1,8 @@
+from blue_fusion import VERSION
+
+
+def test_version():
+    assert VERSION
+
+
+
