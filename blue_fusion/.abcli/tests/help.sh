@@ -17,6 +17,10 @@ function test_blue_fusion_help() {
         "@fusion test" \
         "@fusion test list" \
         \
+        "@fusion bright" \
+        "@fusion bright browse" \
+        "@fusion bright install" \
+        \
         "@fusion browse" \
         \
         "blue_fusion"; do

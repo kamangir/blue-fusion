@@ -10,5 +10,4 @@ def test_required_env():
 
 
 def test_blue_fusion_env():
-    # assert env.BLUE_FUSION_SECRET
     assert env.BLUE_FUSION_CONFIG
