@@ -11,3 +11,11 @@ data:
 `dfc25_track2_trainval.zip` -> decompressed -> uploaded as `dfc25_track2_trainval`.
 
 🔥
+
+dev,
+
+```bash
+@fusion bright ingest \
+  dryrun,train=<count>,upload,val=<count> \
+  <object-name>
+```
