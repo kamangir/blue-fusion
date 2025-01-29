@@ -18,11 +18,6 @@ function test_blue_fusion_help() {
         "@fusion test list" \
         \
         "@fusion browse" \
-        "@fusion leaf" \
-        "@fusion node" \
-        "@fusion node leaf" \
-        \
-        "@fusion task" \
         \
         "blue_fusion"; do
         abcli_eval ,$options \
@@ -34,6 +29,3 @@ function test_blue_fusion_help() {
 
     return 0
 }
-
-
-
